@@ -1,0 +1,29 @@
+.startContent {
+    background-color: black;
+    padding: 130px;
+}
+
+.startContent div {
+    margin: 0px;
+}
+
+.startContent h1 {
+    color: white;
+}
+
+.startContent p {
+    color: gray;
+}
+
+.startTop {
+    display: flex;
+    gap: 10px;
+}
+
+.startTop img {
+    width: 90px;
+}
+
+.bottomIMG {
+    margin-top: 100px;
+}

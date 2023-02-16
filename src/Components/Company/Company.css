@@ -1,0 +1,19 @@
+.companyContent {
+    padding: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.companyH1 {
+    display: flex;
+}
+
+.comItems {
+    padding: 50px;
+    margin-left: 100px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    gap: 75px;
+}

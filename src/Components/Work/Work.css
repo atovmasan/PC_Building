@@ -1,0 +1,19 @@
+.workContent {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.workContent h1 {
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.workData {
+    display: flex;
+}
+
+.worksData {
+    width: 450px;
+    margin: 50px;
+}

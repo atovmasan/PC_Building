@@ -1,0 +1,16 @@
+.ODcontent {
+    display: flex;
+    gap: 300px;
+    padding: 150px;
+    background-color: black;
+    color: white;
+}
+
+.ODcontent img {
+    width: 426px;
+    height: 399px;
+}
+
+.ODcontent .text {
+    max-inline-size: 500px;
+}
